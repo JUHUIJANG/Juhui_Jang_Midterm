@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a37f50f-3e96-48be-a94a-fc0df03317e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqcMhyPK75HoAU3ktReaVXMnZL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Libraries/chromedriver_win32" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Juhui_Jang_Midterm" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Juhui_Jang_Test" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Juhui_Jang_Midterm" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="D:\2020winter\Testing_Automated\Juhui_Jang_Test\out" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Juhui_Jang_Midterm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a37f50f-3e96-48be-a94a-fc0df03317e0" name="Default Changelist" comment="" />
+      <created>1583673518643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583673518643</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1583673528386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583673528386" />
+    <state x="76" y="352" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583676968723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="76" y="352" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583676968723" />
+    <state x="714" y="236" key="DetectedRootsChooserDialog" timestamp="1583673637492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="236" key="DetectedRootsChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583673637492" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583675576603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583675576603" />
+    <state width="914" height="285" key="GridCell.Tab.0.bottom" timestamp="1583676971300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583676971300" />
+    <state width="914" height="285" key="GridCell.Tab.0.center" timestamp="1583676971300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583676971300" />
+    <state width="914" height="285" key="GridCell.Tab.0.left" timestamp="1583676971300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583676971300" />
+    <state width="914" height="285" key="GridCell.Tab.0.right" timestamp="1583676971300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583676971300" />
+    <state x="76" y="136" key="SettingsEditor" timestamp="1583676839532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="76" y="136" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583676839532" />
+    <state x="184" y="418" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583673934719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="418" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1583673934719" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="Juhui_Jang_Test" type="b2602c69:ProjectViewProjectNode" />
+        <item name="Juhui_Jang_Test" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
