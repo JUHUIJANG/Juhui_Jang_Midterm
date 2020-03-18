@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a37f50f-3e96-48be-a94a-fc0df03317e0" name="Default Changelist" comment="Make improvements">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Juhui_Jang_Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Juhui_Jang_Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Juhui_Jang_Test.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Juhui_Jang_Test.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Juhui_Jang_Test/Juhui_Jang_Midterm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Juhui_Jang_Test/Juhui_Jang_Midterm.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Juhui_Jang_Midterm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Juhui_Jang_Midterm.java" afterDir="false" />
     </list>
@@ -43,11 +40,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/2020winter/Testing_Automated/Assignment2_JuhuiJang" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager">
     <configuration name="Juhui_Jang_Midterm" type="TestNG" temporary="true" nameIsGenerated="true">
@@ -100,47 +97,49 @@
     </state>
     <state x="442" y="142" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584488338853" />
     <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583673528386" />
-    <state x="646" y="47" width="858" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584491220353">
+    <state x="646" y="47" width="858" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584494701453">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="646" y="47" width="858" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584491220353" />
+    <state x="646" y="47" width="858" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584494701453" />
     <state x="76" y="352" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583676968723" />
     <state x="405" y="0" key="CommitChangelistDialog2" timestamp="1584492503137">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="405" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584492503137" />
-    <state x="714" y="236" key="DetectedRootsChooserDialog" timestamp="1583673637492">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="571" y="187" key="DetectedRootsChooserDialog" timestamp="1584493985726">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="571" y="187" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1584493985726" />
     <state x="714" y="236" key="DetectedRootsChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583673637492" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583675576603">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="592" y="218" key="FileChooserDialogImpl" timestamp="1584494327817">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584494327817" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583675576603" />
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1584492785506">
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom" timestamp="1584494861110">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584492785506" />
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584494861110" />
     <state width="914" height="343" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583677467118" />
-    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1584492785506">
+    <state width="1493" height="219" key="GridCell.Tab.0.center" timestamp="1584494861110">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584492785506" />
+    <state width="1493" height="219" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584494861110" />
     <state width="914" height="343" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583677467118" />
-    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1584492785506">
+    <state width="1493" height="219" key="GridCell.Tab.0.left" timestamp="1584494861110">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584492785506" />
+    <state width="1493" height="219" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584494861110" />
     <state width="914" height="343" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583677467118" />
-    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1584492785506">
+    <state width="1493" height="219" key="GridCell.Tab.0.right" timestamp="1584494861110">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584492785506" />
+    <state width="1493" height="219" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584494861110" />
     <state width="914" height="343" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583677467118" />
-    <state x="350" y="0" key="SettingsEditor" timestamp="1584492775041">
+    <state x="350" y="0" key="SettingsEditor" timestamp="1584494856033">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="350" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584492775041" />
+    <state x="350" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584494856033" />
     <state x="76" y="136" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583676839532" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584493025272">
       <screen x="0" y="0" width="1536" height="824" />

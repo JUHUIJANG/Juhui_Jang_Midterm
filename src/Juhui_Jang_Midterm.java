@@ -144,5 +144,45 @@ public class Juhui_Jang_Midterm {
         driver.findElement(By.id("SubmitLogin")).click();
         System.out.println("Login button clicked");
         Reporter.log("Login button clicked");
+        driver.close();
+    }
+
+    @Test(priority = 3)
+    public void loginToCentennial(){
+        String centennialURL = "https://e.centennialcollege.ca/";
+        String id = "300970505";
+        String password = "wrongpassword";
+
+        System.out.println("loginToCentennial started");
+        Reporter.log("loginToCentennial started");
+        // use chrome web driver
+        System.setProperty("webdriver.chrome.driver", chromeDriverPath);
+        WebDriver driver = new ChromeDriver();
+
+        // open chrome browser and maximize the window
+        driver.manage().window().maximize();
+        // direct to e-centennial website
+        driver.get(centennialURL);
+        System.out.println(centennialURL+" opened");
+        Reporter.log(centennialURL+" opened");
+
+        // find username input field and provide an username (e,g. 300970505)
+        WebElement elementUsername = driver.findElement(By.xpath("//input[@name='username']"));
+        elementUsername.sendKeys(id);
+        System.out.println(id + "entered into the student id field");
+        Reporter.log(id + "entered into the student id field");
+
+        // find password input field and provide a wrong password to check if sign-in fails
+        WebElement elementPassword = driver.findElement(By.xpath("//input[@name='password']"));
+        elementPassword.sendKeys(password);
+        System.out.println(password + "entered into the password field");
+        Reporter.log(password + "entered into the password field");
+
+        // find the button which has an id 'mysubmit1' and click it to try signing in -> sign-in should fail with the wrong password
+        driver.findElement(By.id("mysubmit1")).click();
+        System.out.println("Login button clicked");
+        Reporter.log("Login button clicked");
+
+        driver.close();
     }
 }

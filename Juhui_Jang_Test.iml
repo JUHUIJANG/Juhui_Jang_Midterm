@@ -2,7 +2,7 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/out/production/Juhui_Jang_Test" />
-    <output-test url="file://$MODULE_DIR$/out/test-output" />
+    <output-test url="file://$MODULE_DIR$/out" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
@@ -98,6 +98,61 @@
         </CLASSES>
         <JAVADOC />
         <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://D:/2020winter/Testing_Automated/Libraries/Apache POI/poi-bin-4.1.2-20200217/poi-4.1.2" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://D:/2020winter/Testing_Automated/Libraries/Apache POI/poi-bin-4.1.2-20200217/poi-4.1.2/docs/apidocs/dev" />
+        </JAVADOC>
+        <SOURCES />
+        <jarDirectory url="file://D:/2020winter/Testing_Automated/Libraries/Apache POI/poi-bin-4.1.2-20200217/poi-4.1.2" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://D:/2020winter/Testing_Automated/Libraries/Apache POI/poi-bin-4.1.2-20200217/poi-4.1.2/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://D:/2020winter/Testing_Automated/Libraries/Apache POI/poi-bin-4.1.2-20200217/poi-4.1.2/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://D:/2020winter/Testing_Automated/Libraries/Apache POI/poi-bin-4.1.2-20200217/poi-4.1.2/ooxml-lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://D:/2020winter/Testing_Automated/Libraries/Apache POI/poi-bin-4.1.2-20200217/poi-4.1.2/ooxml-lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://D:/2020winter/Testing_Automated/Libraries/selenium-java-3.141.59" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/2020winter/Testing_Automated/Libraries/selenium-java-3.141.59" />
+        </SOURCES>
+        <jarDirectory url="file://D:/2020winter/Testing_Automated/Libraries/selenium-java-3.141.59" recursive="false" />
+        <jarDirectory url="file://D:/2020winter/Testing_Automated/Libraries/selenium-java-3.141.59" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://D:/2020winter/Testing_Automated/Libraries/selenium-java-3.141.59/libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://D:/2020winter/Testing_Automated/Libraries/selenium-java-3.141.59/libs" recursive="false" />
       </library>
     </orderEntry>
   </component>
