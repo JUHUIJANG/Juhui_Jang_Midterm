@@ -10,6 +10,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -24,13 +25,6 @@ public class Juhui_Jang_Midterm {
     public String sheetName = "Result";
     public String emailCellValue;
     public String passCellValue;
-
-//    public static void main(String[] args) throws IOException {
-//        Juhui_Jang_Midterm test = new Juhui_Jang_Midterm();
-//        test.writeExcelFile();
-//        test.readExcelFile();
-//        test.doLogin();
-//    }
 
     @Test(priority = 0)
     public void writeExcelFile() throws IOException {
